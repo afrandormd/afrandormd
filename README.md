@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @afrandormd
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on myself 
 - 📫 Reach me on afrandormd@gmail.com
 
 <!---
