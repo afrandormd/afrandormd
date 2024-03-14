@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afrandormd
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in web, mobile development & cyber security
+- 🌱 I’m currently learning Javascript, Dart, Python
 - 📫 Reach me on afrandormd@gmail.com
 
 <!---
