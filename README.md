@@ -1,9 +1,5 @@
-- 👋 Hi, I’m @afrandormd
-- 👀 I’m interested in web, mobile development & cyber security
-- 🌱 I’m currently learning Javascript, Dart, Python
-- 📫 Reach me on afrandormd@gmail.com
+### Hi, I'm Afrando 👋
+👀 I’m interested in web, mobile development & cyber security  
+🌱 I’m currently learning Javascript, Dart, Python
 
-<!---
-afrandormd/afrandormd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Afrandormd's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrandormd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
