@@ -1,6 +1,6 @@
 # Hi, I'm Afrando 👋
 👀 I’m interested in web, mobile development & cyber security  
-🌱 I’m currently learning Javascript, Dart, Python
+🌱 I’m currently learning Javascript, Dart, Python, IOT
 
 
 # 💻 Tech Stack:
