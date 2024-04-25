@@ -1,6 +1,6 @@
 # Hi, I'm Afrando Sharein Ramadhan👋
 👀 I’m interested in web, mobile development & cyber security.  
-🌱 I’m currently learning Javascript, Dart, Python, IoT.
+🌱 I’m currently learning Javascript, ReactJS, Dart, Python, IoT.
 
 
 # 💻 Tech Stack:
@@ -15,6 +15,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 
 ## Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
