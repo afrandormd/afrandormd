@@ -1,6 +1,6 @@
 # Hi, I'm Afrando Sharein Ramadhan👋
 👀 I’m interested in web, mobile development & cyber security.  
-🌱 I’m currently learning Javascript, ReactJS, Dart, Python, Flutter.
+🌱 I’m currently learning JavaScript, ReactJS, Dart, Python, Flutter.
 
 
 # 💻 Tech Stack:
