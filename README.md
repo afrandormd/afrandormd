@@ -1,6 +1,6 @@
 # Hi, I'm Afrando S.R👋
 👀 I’m interested in web, mobile development & cyber security.  
-🌱 I’m currently learning JavaScript, ReactJS, Dart, Python, Flutter.
+🌱 I’m currently learning JavaScript, ReactJS, Dart, Python, Flutter, Laravel.
 
 
 # 💻 Tech Stack:
