@@ -1,4 +1,4 @@
-# Hi, I'm Afrando S👋
+# Hi, I'm Afrando Sharein👋
 👀 I’m interested in web, mobile development & cyber security.  
 🌱 I’m currently learning JavaScript, ReactJS, Dart, Python, Flutter, Laravel.
 
