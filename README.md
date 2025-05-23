@@ -1,6 +1,6 @@
 # Hi, I'm Afrando Sharein R👋
-👀 I’m interested in web, mobile development & cyber security.  
-🌱 I’m currently learning JavaScript, ReactJS, Dart, Python, Flutter, Laravel.
+👀 I’m interested in web and mobile development, AI, & Web3.  
+🌱 I’m currently focus learning JavaScript, TypeScript ReactJS, and NextJS
 
 
 # 💻 Tech Stack:
@@ -28,7 +28,12 @@
 
 
 # 📊 GitHub Stats:
-[![Afrandormd's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrandormd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<!-- [![Afrandormd's GitHub stats](https://github-readme-stats.vercel.app/api?username=afrandormd&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=afrandormd&show_icons=true&theme=tokyonight" alt="Afrandormd's GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=afrandormd&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afrandormd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Languages Profile" width="35%" />
+</p>
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=afrandormd&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=afrandormd&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
