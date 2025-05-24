@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" />
 
 # Hi, I'm Afrando Sharein R👋
-💼 Fullstack Web Developer
+💼 Fullstack Developer  
 👀 I’m interested in web and mobile development, AI, & Web3.  
 🌱 I’m currently focus learning JavaScript, TypeScript ReactJS, and NextJS
 
