@@ -28,7 +28,6 @@ I'm a passionate frontend developer who loves building fast, responsive, and use
 ### 📫 Let's Connect
 
 - 💼 LinkedIn: [linkedin.com/in/afrandormd](https://www.linkedin.com/in/afrandormd/)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 - 📧 Email: afrandormd@gmail.com
 
 ### 💡 Currently
