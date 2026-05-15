@@ -1,4 +1,4 @@
-# Hi there, I'm Rando 👋
+# Hi there, I'm Rando Codes👋
 
 ## Frontend Developer | React.js & Next.js Specialist
 
