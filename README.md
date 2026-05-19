@@ -1,6 +1,6 @@
 # Hi there, I'm Rando👋
 
-## Frontend Developer | React.js & Next.js Specialist
+## Frontend Developer
 
 I'm a passionate frontend developer who loves building fast, responsive, and user-friendly web applications. I specialize in the React ecosystem and modern JavaScript.
 
